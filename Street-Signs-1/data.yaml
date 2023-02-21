@@ -1,0 +1,7 @@
+names:
+- Stop_Sign
+nc: 1
+path: ../datasets/roboflow
+test: test/images
+train: train/images
+val: valid/images
